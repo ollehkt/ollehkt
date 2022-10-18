@@ -8,7 +8,7 @@
 
 ### STYLE
 
-<img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/> <img src="https://img.shields.io/badge/STYLED-COMPONENTS-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/TAILWIND CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/> 
+<img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/> <img src="https://img.shields.io/badge/STYLED COMPONENTS-DB7093?style=for-the-badge&logo=styled components&logoColor=white"/> <img src="https://img.shields.io/badge/TAILWIND CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/> 
 
 ### BACKEND
 
