@@ -14,7 +14,8 @@
 
 <img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/>
 
-
+## BLOG
+[ABOUT ME](https://davidktlee.notion.site/b1a3c0a7144a44a78e29939c8d15cadf)
 
 [![Kyungtaek's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidktlee&hide=stars,issues&count_private=true&show_icons=true&theme=buefy)]
 <!---
