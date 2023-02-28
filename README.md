@@ -4,7 +4,7 @@
 
 ### LIBRARY & FRAMEWORK
 
-<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/REDUX-764ABC?style=for-the-badge&logo=Redux&logoColor=white"/> <img src="https://img.shields.io/badge/VUE-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/> ![pinia](https://img.shields.io/badge/pinia-f91?style=for-the-badge&logo=emotion&logoColor=white)
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/NEXTJS-000000?style=for-the-badge&logo=NextJs&logoColor=white"/> <img src="https://img.shields.io/badge/REDUX-764ABC?style=for-the-badge&logo=Redux&logoColor=white"/> <img src="https://img.shields.io/badge/VUE-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/> ![pinia](https://img.shields.io/badge/pinia-f91?style=for-the-badge&logo=emotion&logoColor=white)
 
 ### STYLE
 
