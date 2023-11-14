@@ -17,7 +17,7 @@
 ## BLOG
 [ABOUT ME](https://davidktlee.notion.site/b1a3c0a7144a44a78e29939c8d15cadf)
 
-![Kyungtaek's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidktlee&hide=stars,issues&count_private=true&show_icons=true&theme=buefy)
+![Kyungtaek's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidktlee&hide=stars,issues&count_private=true&show_icons=true&theme=buefy) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidktlee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 davidktlee/davidktlee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
