@@ -12,7 +12,11 @@
 
 ### BACKEND
 
-<img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/NESTJS-E0234D?style=for-the-badge&logo=NestJS&logoColor=white"/> <img src="https://img.shields.io/badge/POSTGRESQL-3178C6?style=for-the-badge&logo=PostgreSql&logoColor=white"/> 
+
+### CLOUD
+<img src="https://img.shields.io/badge/AWS-FFCA28?style=for-the-badge&logo=AWS&logoColor=white"/> <img src="https://img.shields.io/badge/DOCKER-1C63ED?style=for-the-badge&logo=Docker&logoColor=white"/> 
+
 
 ## BLOG
 [ABOUT ME](https://davidktlee.notion.site/b1a3c0a7144a44a78e29939c8d15cadf)
