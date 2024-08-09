@@ -23,7 +23,38 @@
 
 ![Kyungtaek's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidktlee&hide=stars,issues&count_private=true&show_icons=true&theme=buefy) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidktlee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![kt's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=davidktlee)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C166%20hrs%2039%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-23.7%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
+
+**저는 아침형 인간이에요. 🐤** 
+
+```text
+🌞 아침                     2743 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+🌆 낮　                     6860 commits        ██████████░░░░░░░░░░░░░░░   40.92 % 
+🌃 저녁                     5373 commits        ████████░░░░░░░░░░░░░░░░░   32.05 % 
+🌙 밤　                     1790 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+```
+
+
+📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
+
+```text
+🕑︎ Timezone: Asia/Seoul
+
+💬 프로그래밍 언어들: 
+TypeScript               2 hrs 41 mins       █████████████████████████   99.98 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+
+🔥 에디터들: 
+VS Code                  2 hrs 41 mins       █████████████████████████   100.00 % 
+
+💻 운영 체제들: 
+Mac                      2 hrs 41 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 09/08/2024 09:02:46 UTC
 <!--END_SECTION:waka-->
 
 ![snake gif](https://github.com/davidktlee/davidktlee/blob/output/github-contribution-grid-snake.svg)
