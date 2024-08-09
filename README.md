@@ -22,8 +22,9 @@
 [ABOUT ME](https://www.miricanvas.com/v/13fh5v5)  |  [Velog](https://velog.io/@davidktlee)
 
 ![Kyungtaek's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidktlee&hide=stars,issues&count_private=true&show_icons=true&theme=buefy) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidktlee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--START_SECTION:waka-->
 ![kt's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=davidktlee)
+<!--END_SECTION:waka-->
 
 ![snake gif](https://github.com/davidktlee/davidktlee/blob/output/github-contribution-grid-snake.svg)
 
