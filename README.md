@@ -23,7 +23,7 @@
 
 ![Kyungtaek's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidktlee&hide=stars,issues&count_private=true&show_icons=true&theme=buefy) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidktlee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![kt's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=davidktlee)]
+![kt's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=davidktlee)
 
 ![snake gif](https://github.com/davidktlee/davidktlee/blob/output/github-contribution-grid-snake.svg)
 
