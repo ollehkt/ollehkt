@@ -23,7 +23,7 @@
 
 ![Kyungtaek's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidktlee&hide=stars,issues&count_private=true&show_icons=true&theme=buefy) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidktlee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C197%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C199%20hrs%2026%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-24.2%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
@@ -43,21 +43,21 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               14 hrs 45 mins      ███████████████████████░░   93.72 % 
-JSON                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-Font                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+TypeScript               13 hrs 10 mins      ███████████████████████░░   93.01 % 
+JSON                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Font                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 에디터들: 
-VS Code                  15 hrs 44 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 9 mins       █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Mac                      15 hrs 44 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/09/2024 01:02:57 UTC
+ Last Updated on 04/09/2024 01:03:46 UTC
 <!--END_SECTION:waka-->
 
 ![snake gif](https://github.com/davidktlee/davidktlee/blob/output/github-contribution-grid-snake.svg)
