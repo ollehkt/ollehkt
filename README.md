@@ -53,6 +53,13 @@ VS Code                  3 mins              ████░░░░░░░�
 Mac                      20 mins             █████████████████████████   100.00 % 
 ```
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/ollehkt"
+  width="600"
+  height="300"
+/>
+</a>
 
  Last Updated on 13/11/2024 09:09:15 UTC
 <!--END_SECTION:waka-->
