@@ -57,7 +57,7 @@ Mac                      5 hrs 45 mins       ███████████�
  Last Updated on 13/11/2024 01:07:37 UTC
 <!--END_SECTION:waka-->
 
-![snake gif](https://github.com/davidktlee/davidktlee/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ollehkt/ollehkt/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 davidktlee/davidktlee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
