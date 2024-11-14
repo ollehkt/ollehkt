@@ -21,6 +21,14 @@
 ## BLOG
 [ABOUT ME](https://www.rallit.com/resumes/1349348@rudxor567/%EC%9D%B4%EA%B2%BD%ED%83%9D?theme=MINT_SORBET)  |  [Velog](https://velog.io/@davidktlee)
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/ollehkt"
+  width="600"
+  height="300"
+/>
+</a>
+
 ![Kyungtaek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ollehkt&hide=stars,issues&count_private=true&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ollehkt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C383%20hrs%203%20mins-blue)
