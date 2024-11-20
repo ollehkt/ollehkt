@@ -29,7 +29,7 @@
 />
 </a>
 
-![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/ollehkt?theme=dark&posts=3)
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/davidktlee?theme=dark&posts=3)
 
 ![Kyungtaek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ollehkt&hide=stars,issues&count_private=true&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ollehkt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
