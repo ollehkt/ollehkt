@@ -33,6 +33,8 @@
 
 ![Kyungtaek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ollehkt&hide=stars,issues&count_private=true&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ollehkt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C783%20hrs%2038%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-24.1%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
 **저는 아침형 인간이에요. 🐤** 
@@ -51,7 +53,7 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               18 hrs 53 mins      ████████████████████████░   94.79 % 
+TypeScript               18 hrs 54 mins      ████████████████████████░   94.79 % 
 JavaScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 CSS                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
@@ -65,7 +67,7 @@ Mac                      19 hrs 56 mins      ███████████�
 ```
 
 
- Last Updated on 16/02/2025 01:14:24 UTC
+ Last Updated on 17/02/2025 01:11:53 UTC
 <!--END_SECTION:waka-->
 
 ![snake gif](https://github.com/ollehkt/ollehkt/blob/output/github-contribution-grid-snake.svg)
