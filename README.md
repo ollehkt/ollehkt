@@ -33,6 +33,8 @@
 
 ![Kyungtaek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ollehkt&hide=stars,issues&count_private=true&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ollehkt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C892%20hrs%2052%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-26.3%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
 **저는 아침형 인간이에요. 🐤** 
@@ -51,21 +53,21 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               8 hrs 46 mins       ███████████░░░░░░░░░░░░░░   44.61 % 
-Vue.js                   5 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   28.35 % 
-JSON                     3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-JavaScript               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-TSConfig                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+TypeScript               10 hrs 16 mins      █████████████░░░░░░░░░░░░   50.14 % 
+Vue.js                   4 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
+JSON                     3 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+JavaScript               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+TSConfig                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 
 🔥 에디터들: 
-Cursor                   19 hrs 40 mins      █████████████████████████   100.00 % 
+Cursor                   20 hrs 29 mins      █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Mac                      19 hrs 40 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/03/2025 01:13:37 UTC
+ Last Updated on 29/03/2025 01:13:12 UTC
 <!--END_SECTION:waka-->
 
 ![snake gif](https://github.com/ollehkt/ollehkt/blob/output/github-contribution-grid-snake.svg)
