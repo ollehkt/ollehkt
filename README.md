@@ -33,7 +33,7 @@
 
 ![Kyungtaek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ollehkt&hide=stars,issues&count_private=true&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ollehkt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C933%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C937%20hrs%205%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-26.6%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
@@ -53,21 +53,21 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               18 hrs 52 mins      ██████████████████░░░░░░░   72.07 % 
-JSON                     4 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Kotlin                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-JavaScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+TypeScript               18 hrs 52 mins      ██████████████████░░░░░░░   71.88 % 
+JSON                     4 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+Kotlin                   46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+JavaScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 Diff                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 🔥 에디터들: 
-Cursor                   26 hrs 11 mins      █████████████████████████   100.00 % 
+Cursor                   26 hrs 15 mins      █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Mac                      26 hrs 11 mins      █████████████████████████   100.00 % 
+Mac                      26 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/04/2025 01:15:02 UTC
+ Last Updated on 13/04/2025 02:44:06 UTC
 <!--END_SECTION:waka-->
 
 ![snake gif](https://github.com/ollehkt/ollehkt/blob/output/github-contribution-grid-snake.svg)
