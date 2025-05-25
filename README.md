@@ -33,7 +33,7 @@
 
 ![Kyungtaek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ollehkt&hide=stars,issues&count_private=true&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ollehkt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C143%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C150%20hrs%209%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-27.9%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
@@ -53,21 +53,21 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               36 hrs 59 mins      ████████████████████████░   94.83 % 
-JSON                     43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-XML                      26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-Groovy                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+TypeScript               37 hrs 47 mins      ███████████████████████░░   92.91 % 
+Groovy                   51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+JSON                     44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+XML                      33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 에디터들: 
-Cursor                   39 hrs              █████████████████████████   100.00 % 
+Cursor                   40 hrs 40 mins      █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Mac                      39 hrs              █████████████████████████   100.00 % 
+Mac                      40 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/05/2025 01:17:13 UTC
+ Last Updated on 25/05/2025 01:26:18 UTC
 <!--END_SECTION:waka-->
 
 ![snake gif](https://github.com/ollehkt/ollehkt/blob/output/github-contribution-grid-snake.svg)
