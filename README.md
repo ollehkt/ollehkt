@@ -33,7 +33,7 @@
 
 ![Kyungtaek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ollehkt&hide=stars,issues&count_private=true&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ollehkt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C455%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C455%20hrs%2031%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-25.4%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
@@ -42,7 +42,7 @@
 ```text
 🌞 아침                     3297 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
 🌆 낮　                     7760 commits        ██████████░░░░░░░░░░░░░░░   39.33 % 
-🌃 저녁                     6691 commits        ████████░░░░░░░░░░░░░░░░░   33.91 % 
+🌃 저녁                     6692 commits        ████████░░░░░░░░░░░░░░░░░   33.92 % 
 🌙 밤　                     1982 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
 ```
 
@@ -53,18 +53,18 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               4 hrs               █████████████████████████   99.93 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+TypeScript               4 hrs 14 mins       █████████████████████████   99.94 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 에디터들: 
-Cursor                   4 hrs               █████████████████████████   100.00 % 
+Cursor                   4 hrs 14 mins       █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Mac                      4 hrs               █████████████████████████   100.00 % 
+Mac                      4 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/11/2025 01:18:36 UTC
+ Last Updated on 08/11/2025 01:15:51 UTC
 <!--END_SECTION:waka-->
 
 ![snake gif](https://github.com/ollehkt/ollehkt/blob/output/github-contribution-grid-snake.svg)
