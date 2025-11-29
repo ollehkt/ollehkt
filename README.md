@@ -33,17 +33,17 @@
 
 ![Kyungtaek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ollehkt&hide=stars,issues&count_private=true&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ollehkt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C461%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C461%20hrs%2047%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-25.5%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-25.2%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 아침                     3376 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-🌆 낮　                     7894 commits        ██████████░░░░░░░░░░░░░░░   38.98 % 
-🌃 저녁                     6962 commits        █████████░░░░░░░░░░░░░░░░   34.38 % 
-🌙 밤　                     2017 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+🌞 아침                     3222 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+🌆 낮　                     7642 commits        ██████████░░░░░░░░░░░░░░░   39.68 % 
+🌃 저녁                     6450 commits        ████████░░░░░░░░░░░░░░░░░   33.49 % 
+🌙 밤　                     1947 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
 ```
 
 
@@ -64,7 +64,7 @@ Mac                      3 hrs 49 mins       ███████████�
 ```
 
 
- Last Updated on 28/11/2025 01:18:32 UTC
+ Last Updated on 29/11/2025 01:17:53 UTC
 <!--END_SECTION:waka-->
 
 ![snake gif](https://github.com/ollehkt/ollehkt/blob/output/github-contribution-grid-snake.svg)
