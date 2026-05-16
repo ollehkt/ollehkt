@@ -33,10 +33,37 @@
 
 ![Kyungtaek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ollehkt&hide=stars,issues&count_private=true&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ollehkt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C469%20hrs%2022%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-24.92%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
+**저는 아침형 인간이에요. 🐤** 
 
- Last Updated on 15/05/2026 02:51:14 UTC
+```text
+🌞 아침                     3016 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+🌆 낮　                     7298 commits        ██████████░░░░░░░░░░░░░░░   40.34 % 
+🌃 저녁                     5935 commits        ████████░░░░░░░░░░░░░░░░░   32.81 % 
+🌙 밤　                     1842 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+```
+
+
+📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
+
+```text
+🕑︎ Timezone: Asia/Seoul
+
+💬 프로그래밍 언어들: 
+이번 주에 활동은 없어요.
+
+🔥 에디터들: 
+이번 주에 활동은 없어요.
+
+💻 운영 체제들: 
+이번 주에 활동은 없어요.
+```
+
+
+ Last Updated on 16/05/2026 02:41:11 UTC
 <!--END_SECTION:waka-->
 
 ![snake gif](https://github.com/ollehkt/ollehkt/blob/output/github-contribution-grid-snake.svg)
